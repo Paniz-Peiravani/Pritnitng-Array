@@ -4,7 +4,7 @@ This MIPS assembly code demonstrates how to declare, initialize, and sort an arr
 
 1. Initialize an array of integers in the Data Segment.
 2. Sort the array using a simple bubble sort algorithm.
-
+ 
 ## Code Explanation
 
 - The `.data` section defines an array `intArray` of size 10 to store integers.
